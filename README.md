@@ -57,6 +57,10 @@ Temperature profile for plastic plate, constant temperature boundary conditions,
 
 ![image](https://github.com/Beniam-Kumela/2D-heat-transfer-m/assets/106757076/1f8b89f5-3509-4a7b-a509-bada7574949f)
 
+Lumped system analysis treatment for geometry given in Scenario 3 with numerical approximation (RK4) compared with analytical solution over 200 seconds.
+
+![image](https://github.com/Beniam-Kumela/nD-heat-transfer-m/assets/106757076/da79bf9d-b7cd-46da-a7ae-d70db99749fa)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request if you find a bug, have a feature request, or would like to improve the project in any way. 
