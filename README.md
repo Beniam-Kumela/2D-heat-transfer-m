@@ -17,7 +17,7 @@ A variety of different materials were chosen to evaluate the effect of thermal d
 3. [Building and Running](/README.md#building-and-running)
 4. [Examples](/README.md#examples)
 5. [Contributing](/README.md#contributing)
-6. [Research Paper](/README.md#research-paper).
+6. [Research Paper](/README.md#research-paper)
 7. [License](/README.md#license)
 
 ## Features
