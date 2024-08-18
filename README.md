@@ -1,4 +1,4 @@
-# Multi-dimensional Unsteady State Heat Transfer (MATLAB)
+# MATLAB-Based Simulation of Heat Transfer in n-Dimensional Systems
 
 This repository contains a MATLAB implementation of modelling 2D unsteady state heat transfer. 3 scenarios are tested:
 
