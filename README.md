@@ -69,9 +69,7 @@ For the future, maybe some implicit, direct, and linear algebra-based schemes co
 
 ## Research Paper
 
-More information on numerical method derivations, assumptions, problem statements, results, interpretations, and resources can be found in the following paper I wrote:
-
-[MATLAB nD-Heat Transfer Simulations.pdf](https://github.com/Beniam-Kumela/2D-heat-transfer-m/files/13784634/MATLAB.nD-Heat.Transfer.Simulations.pdf)
+More information on numerical method derivations, assumptions, problem statements, results, interpretations, and resources can be found in the [following paper I wrote](https://drive.google.com/file/d/1A6dHPU9K8siqNGdmViDhwMqeZ43r1jWI/view?usp=drive_link).
 
 ## License
 
