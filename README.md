@@ -1,6 +1,6 @@
 # MATLAB-Based Simulation of Heat Transfer in n-Dimensional Systems
 
-This repository contains a MATLAB implementation of modelling 2D unsteady state heat transfer. 3 scenarios are tested:
+This repository contains a MATLAB implementation of modelling 2D unsteady state heat transfer as described in teh following [paper](https://drive.google.com/file/d/1A6dHPU9K8siqNGdmViDhwMqeZ43r1jWI/view?usp=drive_link). 3 scenarios are tested:
 
 1. 2D Transient Conduction on Square Plate with Convective Fluid Boundary Conditions.
 2. 2D Transient Conduction on Square Plate with Constant Temperature Boundary Conditions
@@ -66,11 +66,6 @@ Lumped system analysis treatment for geometry given in Scenario 3 with numerical
 Contributions are welcome! Please feel free to open an issue or submit a pull request if you find a bug, have a feature request, or would like to improve the project in any way. 
 
 For the future, maybe some implicit, direct, and linear algebra-based schemes could have been used for Scenarios 1 and 2 to reduce computation time needed for the iterative finite difference method utilized. This also reduces the restriction required for stability so smaller time steps or grid sizes could be used. A slightly more accurate model for Scenario 1 would have included forced convection and temperature dependent thermal conductivity.
-
-## Research Paper
-
-More information on numerical method derivations, assumptions, problem statements, results, interpretations, and resources can be found in the [following paper I wrote](https://drive.google.com/file/d/1A6dHPU9K8siqNGdmViDhwMqeZ43r1jWI/view?usp=drive_link).
-
 ## License
 
 This project is licensed under the MIT License.
